@@ -58,7 +58,7 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot:
+global.packname = data.namabot:san.id 
 global.author = data.owner;kasan
 
 //=========== Requirements ==========//  
